@@ -249,7 +249,7 @@
     "deploy": true,
     "devtoolsEnabled": true,
     "inProduction": true,
-sssss    "name": "rusyn-from-serbian",
+    "name": "rusyn-from-serbian",
     "source": "Serbian",
     "target": "Rusyn",
     "description": "Rusyn for Serbian speakers"
