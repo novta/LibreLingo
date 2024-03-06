@@ -58,8 +58,11 @@ apt-get install python-is-python3
 Clone the repository:
 
 ```sh
-git clone git@github.com:LibreLingo/LibreLingo.git
+git clone git@github.com:LibreLingo/LibreLingo.git --single-branch
 ```
+
+Using `--single-branch` is recommened in order to avoid having to clone the `gh-pages` branch,
+which you will probably never use locally.
 
 Move into the repo directory:
 
@@ -79,13 +82,13 @@ In order to make sure you have the correct `node` version, it's recommended to u
 First, install the correct `node` version with this command:
 
 ```bash
-nvm install 14
+nvm install 16
 ```
 
 Then, to choose this version of `node` in your terminal, use
 
 ```bash
-nvm use 14
+nvm use 16
 ```
 
 #### Install dependencies:
