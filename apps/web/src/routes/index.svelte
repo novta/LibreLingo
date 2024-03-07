@@ -38,9 +38,9 @@
           <Button
             style="primary"
             size="large"
-            href="course/spanish-from-english"
+            href="course/rusyn-from-serbian"
           >
-            <Translate key="index.start_spanish_course">
+            <Translate key="index.start_rusyn_course">
               Start learning Spanish
             </Translate>
           </Button>
