@@ -1,5 +1,6 @@
 <script lang="ts">
   import VirtualKeyboard from "./VirtualKeyboard.svelte"
+  import { t } from "svelte-i18n"
   export let value
   export let specialCharacters
   export let languageCode
@@ -55,7 +56,7 @@
   type="text"
   class="input"
   autofocus
-  placeholder="Type your answer…"
+  placeholder={$t('index.type_your_answer')}
   {disabled}
   spellcheck="false"
   autocapitalize="none"
