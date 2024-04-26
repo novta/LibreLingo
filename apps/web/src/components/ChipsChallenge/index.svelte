@@ -138,7 +138,7 @@
       </div>
     </div>
 
-    <p class="sub-instructions">Use these words:</p>
+    <p class="sub-instructions">{$t('index.use_these_words')}</p>
     <div id="chips" class="chips" bind:this={chipsElement}>
       {#each chipsToRender as chip, index}
         <span
