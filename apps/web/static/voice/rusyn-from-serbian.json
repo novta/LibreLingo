@@ -9,8 +9,17 @@
         "ttsEngine": "standard"
     },
     {
-        "id": "013c9aaa4d51e6da209b7fb71b9955863928cf48cd04ce9eb79eeb09e41a1f5b",
-        "text": "Ти лїкар?",
+        "id": "01af3dd29d0b9297adbcbff28462e2683fbd06efb483daa89589a95c3be1a74f",
+        "text": "Порихтани су",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "01de86b27714c72ed518342d88a84d40e38a598854d23fac391de7dc57d7f9bb",
+        "text": "Добри дзень, я Цеца",
         "source": "TTS",
         "license": "Attribution-ShareAlike 4.0 International",
         "ttsProvider": "Polly",
@@ -45,35 +54,8 @@
         "ttsEngine": "standard"
     },
     {
-        "id": "054e9d1d38dfebc906d370bea73139bd77fe91ecf0f55e6a193383a0ac9315d6",
-        "text": "Добри дзень!",
-        "source": "TTS",
-        "license": "Attribution-ShareAlike 4.0 International",
-        "ttsProvider": "Polly",
-        "ttsVoice": "Lucia",
-        "ttsEngine": "standard"
-    },
-    {
         "id": "0554171e0146c00a1ab0d6f6d4e8634295f4132fff55ea4d5e5d6ffb6346ed0b",
         "text": "Хлєб, модлїм",
-        "source": "TTS",
-        "license": "Attribution-ShareAlike 4.0 International",
-        "ttsProvider": "Polly",
-        "ttsVoice": "Lucia",
-        "ttsEngine": "standard"
-    },
-    {
-        "id": "07c6f55fceee5f968a4bad0947068fda5dec635072cf16f39c06bde96e855ee7",
-        "text": "Слон вельки, миш манди",
-        "source": "TTS",
-        "license": "Attribution-ShareAlike 4.0 International",
-        "ttsProvider": "Polly",
-        "ttsVoice": "Lucia",
-        "ttsEngine": "standard"
-    },
-    {
-        "id": "07ddb786748fc6d10f437dd97780d70ec5ea6da3f4dd3e620cce1149d14a0d85",
-        "text": "Миш манди",
         "source": "TTS",
         "license": "Attribution-ShareAlike 4.0 International",
         "ttsProvider": "Polly",
@@ -99,8 +81,8 @@
         "ttsEngine": "standard"
     },
     {
-        "id": "0dee09878ad4d0ebabcd1d98fcfaa26bb97bb5da3c7c282730bf97dbadb475ad",
-        "text": "Добри дзень, я Цеца.",
+        "id": "0ca3d412a9fecc6fa224c068c924caf6aed10e920dfa78f6dec32b54a1a112d3",
+        "text": "Вельки сом",
         "source": "TTS",
         "license": "Attribution-ShareAlike 4.0 International",
         "ttsProvider": "Polly",
@@ -117,8 +99,8 @@
         "ttsEngine": "standard"
     },
     {
-        "id": "0e1b846b196898375fcf9760dbb52bc819f5bccaf89574b57b18b2a29450700a",
-        "text": "Пишеш писмо?",
+        "id": "0e2d852f998644f797d4cde1d8873f56736fe8b91eda76658f149b56317ad107",
+        "text": "Модлїм",
         "source": "TTS",
         "license": "Attribution-ShareAlike 4.0 International",
         "ttsProvider": "Polly",
@@ -126,8 +108,8 @@
         "ttsEngine": "standard"
     },
     {
-        "id": "0e2d852f998644f797d4cde1d8873f56736fe8b91eda76658f149b56317ad107",
-        "text": "Модлїм",
+        "id": "11627e557324cf8230edb13e4f2d242f1116c4457430de43b397b22b75f6f9a3",
+        "text": "У варошу зме шицки",
         "source": "TTS",
         "license": "Attribution-ShareAlike 4.0 International",
         "ttsProvider": "Polly",
@@ -180,8 +162,8 @@
         "ttsEngine": "standard"
     },
     {
-        "id": "1e1a8d524559f733f8df216f70e54ddb1093a405fdd0052c8c4d972c22696863",
-        "text": "тот миш",
+        "id": "1e317430b0769f4c16b0c2ec443d04e0fa74895de24366628e6be7437153dc7a",
+        "text": "Стари є",
         "source": "TTS",
         "license": "Attribution-ShareAlike 4.0 International",
         "ttsProvider": "Polly",
@@ -191,6 +173,15 @@
     {
         "id": "20e5bbe3dd5abd66728b6064729e9a6e19e85fa25d0ce3d0888ed4c968f5a0d8",
         "text": "тот пес",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "20f6571dcb580bef89249603e472a040c051622a682592da3a400e2d7ac8d0b6",
+        "text": "Добри вечар",
         "source": "TTS",
         "license": "Attribution-ShareAlike 4.0 International",
         "ttsProvider": "Polly",
@@ -225,8 +216,8 @@
         "ttsEngine": "standard"
     },
     {
-        "id": "26da38e34e53702aa2b7631b2526f2e3b2ae1711ec71983fff5fb5070408b3b0",
-        "text": "Добри вечар!",
+        "id": "29ad9300a68972c1596ee009f5fc07998fd7d61d2dcdfb667be4b50e9691401a",
+        "text": "Дзекуєм",
         "source": "TTS",
         "license": "Attribution-ShareAlike 4.0 International",
         "ttsProvider": "Polly",
@@ -245,6 +236,24 @@
     {
         "id": "2c5044a623e67f4a1f77726d90c960e304580c80fb305e1601f473e192cf865b",
         "text": "Шпивам писню",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "2ce32027dbe88b553cf67e87c59da3148651648a36698d83e8bd88dd341b361d",
+        "text": "Тот пес мали и стари",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "2d3010807eaea3faf4df9f13556e1773891c7fea0efd967c4bc68844968a9829",
+        "text": "Тот парк манди",
         "source": "TTS",
         "license": "Attribution-ShareAlike 4.0 International",
         "ttsProvider": "Polly",
@@ -333,6 +342,15 @@
         "ttsEngine": "standard"
     },
     {
+        "id": "408427ae6fcf30d813a2c7d67e82bfe1406e6cd6e06129ebd217ac01220f90ad",
+        "text": "Миша манда",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
         "id": "479a4f5b102e47a9cb0686024e59fc45be64b1b33e9847dd18eb3cbfa8a9fde2",
         "text": "Ципели ци вельки",
         "source": "TTS",
@@ -360,8 +378,26 @@
         "ttsEngine": "standard"
     },
     {
+        "id": "49e4e8c3dd420f7a407259cf52f347ab2643918cd5d8e4800437aac5603f1464",
+        "text": "патики",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
         "id": "4a435e34b5ee87d8c6d3dd5b097e7330a2d3211ecdb88dde0cbbf22c2cbf2083",
         "text": "Вона хора",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "4b9d14e8a1ded9fb4f4e5af4232a78ca763ac07fc8f2176a1147ae8892a3dc4d",
+        "text": "тоти кошулї",
         "source": "TTS",
         "license": "Attribution-ShareAlike 4.0 International",
         "ttsProvider": "Polly",
@@ -387,8 +423,17 @@
         "ttsEngine": "standard"
     },
     {
-        "id": "50179246d73bfbfb87edc970d852465005e8d2432e98f088ee5e6100c89b187a",
-        "text": "Любим то!",
+        "id": "4fa54fa55c473fe33f9d3ee5a149f096b6a1a80d8ecaac9e4c4c5b7c3f5922b8",
+        "text": "Марко нє нїзки",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "512247721578331fa1aecdf2abeb02a809d2a656ab62163a73528ade9f898f17",
+        "text": "качки",
         "source": "TTS",
         "license": "Attribution-ShareAlike 4.0 International",
         "ttsProvider": "Polly",
@@ -405,8 +450,8 @@
         "ttsEngine": "standard"
     },
     {
-        "id": "5280796b5ecda09f110a808597bd04ce4ddc788c85ce2c01397bbfb12a584f3e",
-        "text": "Ми мали",
+        "id": "5331dbd5d879ae873b2428cd7475c8ff5ad48cfc880bcb22f1c4fe77981e5e9f",
+        "text": "Мачка чиста животиня",
         "source": "TTS",
         "license": "Attribution-ShareAlike 4.0 International",
         "ttsProvider": "Polly",
@@ -416,15 +461,6 @@
     {
         "id": "533e76984ba0e69bd1be96c21331baf9e70ddbd63c10a2e2cebd7df315d841fa",
         "text": "ципели",
-        "source": "TTS",
-        "license": "Attribution-ShareAlike 4.0 International",
-        "ttsProvider": "Polly",
-        "ttsVoice": "Lucia",
-        "ttsEngine": "standard"
-    },
-    {
-        "id": "5445a62c864b7fa486b59cba30ec3efab47bbf180dc94c8b22c32a8f0585f14a",
-        "text": "миш",
         "source": "TTS",
         "license": "Attribution-ShareAlike 4.0 International",
         "ttsProvider": "Polly",
@@ -504,6 +540,15 @@
         "ttsEngine": "standard"
     },
     {
+        "id": "616f4d6b5ed5d63fe1bdfc2a18bca2f947a5d2b9dfb5ab3f3d3fa65337704a20",
+        "text": "У школи сом",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
         "id": "628742c39d74a830bd640b833955d6d3096048533d2b99ec0f3eea7d9838558a",
         "text": "Мачата манди",
         "source": "TTS",
@@ -513,8 +558,8 @@
         "ttsEngine": "standard"
     },
     {
-        "id": "669b3b32e10dbbbf392abab715e1ccf934b828a9a97b38ba4031591cdc301bf1",
-        "text": "Гевтот пес мали и стари",
+        "id": "62913dba5244eda7d5b3be5face06706d98eb4384cf91994f54895665a874cf9",
+        "text": "Робиш як лїкар?",
         "source": "TTS",
         "license": "Attribution-ShareAlike 4.0 International",
         "ttsProvider": "Polly",
@@ -522,8 +567,17 @@
         "ttsEngine": "standard"
     },
     {
-        "id": "670d0b9d0133b2342ca281a4ebf0c523bfc51b86fc66ecf8a3494413c8fbc55a",
-        "text": "Гевтот пар пиє пиво",
+        "id": "62bdc7e9bab30527d2d55f361008c3289d761eca5d5da07e74ad843542b9173e",
+        "text": "Модлїм єдно пиво",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "65c0279de63c83acc35cf0a8d68c3df56bc2c7fc55051c3c185aecfa32c74687",
+        "text": "Вони танцую",
         "source": "TTS",
         "license": "Attribution-ShareAlike 4.0 International",
         "ttsProvider": "Polly",
@@ -540,8 +594,17 @@
         "ttsEngine": "standard"
     },
     {
-        "id": "6976f2cf940e5a8d28b30d30b99a9780e5964747503158159fe365c12adbdcbd",
-        "text": "Видзиме ше!",
+        "id": "69e8a9749f1ee6faf8c22d879394bcf8374d5b19f9cb22665e27022a9257f6fa",
+        "text": "тоти патики",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "6a262299e647e139b7d70223acc8d145924f85eafc47862d7a89986ae8985fb7",
+        "text": "Мнє волаю Петро",
         "source": "TTS",
         "license": "Attribution-ShareAlike 4.0 International",
         "ttsProvider": "Polly",
@@ -576,6 +639,15 @@
         "ttsEngine": "standard"
     },
     {
+        "id": "70a28581666a271d38ff6a2ec1be044e681768b4693154c121eff0f9f477eb67",
+        "text": "Я Петро",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
         "id": "726c63acf664aadb7dee0430d99f2dbb0f2be538a14d5fcec8b33fa445278763",
         "text": "Воду, модлїм",
         "source": "TTS",
@@ -603,6 +675,33 @@
         "ttsEngine": "standard"
     },
     {
+        "id": "7615da09b66bc5e952ee65639a0bce8d3d569fdc1cc5f0975b5f757fbf3e5550",
+        "text": "Як шє волаш?",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "76f47a1469c8be60ac0ebb64dcae1ecc843454bc3b1a5fd58e9c19cb6c4401d2",
+        "text": "Вариме вечеру",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "7b27fbeca0e376a8ab55519628a971ece07aa1603762953adf859e50340104d1",
+        "text": "калапи",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
         "id": "7b3d761ff2f26d33434e0360d1bc65853be75b073979dffbaad4d35da8848760",
         "text": "Я студент",
         "source": "TTS",
@@ -614,6 +713,15 @@
     {
         "id": "7b8a5553f3d53ebb2d133af953c94676ab96490d02e586bca90dc2dd474270be",
         "text": "Вона плїва у морю",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "808fe4b215f677b41d9fd0074386329f673fdedb276d758f7667456da9eda609",
+        "text": "Макс мой пес",
         "source": "TTS",
         "license": "Attribution-ShareAlike 4.0 International",
         "ttsProvider": "Polly",
@@ -657,8 +765,35 @@
         "ttsEngine": "standard"
     },
     {
+        "id": "9077654be1f1555fdea633c0e8b0a16d619b0e4567d410e614c0ab7d60e9ad05",
+        "text": "Хора є",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "926dfc973dfd2cb90a1793f22781ebdd36b6ff9fd0b15f4c054e44d32f8207d1",
+        "text": "Стара є",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
         "id": "9405dcab4c52f20dea379d12d908b7f8cad08cde632b5f962e732f986a984b70",
         "text": "Мачка чиста",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "948e031660e94886f7cc664f71dc33ad1db011079683566f19961c6b40b8a56d",
+        "text": "Вельки су",
         "source": "TTS",
         "license": "Attribution-ShareAlike 4.0 International",
         "ttsProvider": "Polly",
@@ -711,8 +846,8 @@
         "ttsEngine": "standard"
     },
     {
-        "id": "9b655fdba51dd5063e84b5c8d53235b2c1d21133db963258fdfe9463011bbe27",
-        "text": "Цеца пиє води",
+        "id": "99f7eef61a9855104e431600f2cca30eff751482cfd56f2208565e7f405f9e12",
+        "text": "Чи ти лїкар?",
         "source": "TTS",
         "license": "Attribution-ShareAlike 4.0 International",
         "ttsProvider": "Polly",
@@ -720,8 +855,8 @@
         "ttsEngine": "standard"
     },
     {
-        "id": "9ba45bb304e88b72b393d7237abaabbae19c6697282da95bb96f65a0702ea595",
-        "text": "Марко нє нїски",
+        "id": "9b655fdba51dd5063e84b5c8d53235b2c1d21133db963258fdfe9463011bbe27",
+        "text": "Цеца пиє води",
         "source": "TTS",
         "license": "Attribution-ShareAlike 4.0 International",
         "ttsProvider": "Polly",
@@ -774,6 +909,42 @@
         "ttsEngine": "standard"
     },
     {
+        "id": "a159ba5a1b79a7b4b0f48ff82a6d47e7b224ebaaa7795bca45a8556ef30dc8df",
+        "text": "Я студенткиня",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "a2264e693c4f3ce51d9a561efdc83a9a47c0d3de47144649ec7bd3e68c30fc6c",
+        "text": "Слон вельки, миша манда",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "a3d289953f0eedb4a3e0db0bb62a40c9797bcfbe10a00e65bddb7784a4fffd87",
+        "text": "Стари сом",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "a65b568fbf770a1f00b2f8e68a29f9fb2141f4ee558b2afe9868487ce16e27fe",
+        "text": "Месо єдза старши",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
         "id": "a6ae98f652474817962198b448755d5b8029ecbb1979d2685b032e30252f3f51",
         "text": "Старши єдза месо",
         "source": "TTS",
@@ -810,6 +981,15 @@
         "ttsEngine": "standard"
     },
     {
+        "id": "ae388a850b135da65c68116bbacac12dc00de218b12f9756b1eeaed442f58631",
+        "text": "Я тераз робим вежби",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
         "id": "ae5669f00fca161118ead6c9b3adcfc4137b1ee70c936264ebeb0642fc7758ac",
         "text": "медведз",
         "source": "TTS",
@@ -837,8 +1017,17 @@
         "ttsEngine": "standard"
     },
     {
-        "id": "b4000f11418ae5d0e8c0db53834938800c609a29ae230e23506134e95594e9ea",
-        "text": "сукньа",
+        "id": "b1d0373e5b3966097515bbcfeea614104bff41b145e7856118697d78dc00cfa2",
+        "text": "Мали зме",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "b2638ffe73c12740d463fb12c84dcd8b321d7e5af9b4a0701f7670aaf168acab",
+        "text": "Вони мали",
         "source": "TTS",
         "license": "Attribution-ShareAlike 4.0 International",
         "ttsProvider": "Polly",
@@ -855,8 +1044,35 @@
         "ttsEngine": "standard"
     },
     {
-        "id": "baf1c060a61ea298383d62d314dcf6a996af5575ecc35d984862d3ef19c4b88f",
-        "text": "Добре рано!",
+        "id": "b545c21f6a04f30849d82b1741d3e608e42947fc3563be53abe87024f6f0cf09",
+        "text": "миша",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "b65d9d66de58a179b838b426f355cea9e9e25fd7eb5f07d2b46c27c3a6933fe3",
+        "text": "маїци",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "b87e8cd674076b51add32710fb3a2295073032dd7122c835c57ef2e3d89b14fe",
+        "text": "конї",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "badb573d55d8021a1e16af4f34986fcfbfd675f3f8f9199a8385408e5592cca7",
+        "text": "Меркуй опасни пес",
         "source": "TTS",
         "license": "Attribution-ShareAlike 4.0 International",
         "ttsProvider": "Polly",
@@ -873,6 +1089,15 @@
         "ttsEngine": "standard"
     },
     {
+        "id": "bcb84a612c1f47809260eb2d520a4264cacab91bca37099b76e1eba35125a42b",
+        "text": "Вона роби як медицинска шестра",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
         "id": "bcf8caa1ac28f20fa08a5e0ff2cae170272a6d335c2a32d040fe8a3b26ac9ae7",
         "text": "Я тераз вежбам",
         "source": "TTS",
@@ -882,8 +1107,8 @@
         "ttsEngine": "standard"
     },
     {
-        "id": "bdc8eb7b60bf18cdd88d97dec7e3653f434da2317130d6c701b94f1acea9edcd",
-        "text": "Гевтот парк манди",
+        "id": "bdc5fe0114ea0de50196516028592a2efe68e767a063172dbf8b5d4566a4b3e1",
+        "text": "Мудри су",
         "source": "TTS",
         "license": "Attribution-ShareAlike 4.0 International",
         "ttsProvider": "Polly",
@@ -891,8 +1116,8 @@
         "ttsEngine": "standard"
     },
     {
-        "id": "c044e8ec9560dc5723453b575d8808419e8a74e231624ea6b32df38051dbd1c8",
-        "text": "Maкс мой пес",
+        "id": "c099bf2089f2024713e9073d5aecad46beb9832133600c9f450224b496d46fb0",
+        "text": "тота миша",
         "source": "TTS",
         "license": "Attribution-ShareAlike 4.0 International",
         "ttsProvider": "Polly",
@@ -902,6 +1127,15 @@
     {
         "id": "c16ad1607e716c83c2268b75b0009f1f7fd59ee57952b946d2261083c1c7d980",
         "text": "млєко",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "c1b98e6456a5247b8c1005286e232809d1f36bdbf2b722cbc67cc06e1a1a5102",
+        "text": "Добру ноц",
         "source": "TTS",
         "license": "Attribution-ShareAlike 4.0 International",
         "ttsProvider": "Polly",
@@ -920,6 +1154,15 @@
     {
         "id": "c2bda96be03ff997bebfc5a188773e0ccf10e98a550b176cdfe8c812e01a23bf",
         "text": "Вони порихтани",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "c6a2e4f576f8450bd950d69e601d94b619d6c87c83d93881181eb5a78acbb237",
+        "text": "Добри дзень",
         "source": "TTS",
         "license": "Attribution-ShareAlike 4.0 International",
         "ttsProvider": "Polly",
@@ -954,15 +1197,6 @@
         "ttsEngine": "standard"
     },
     {
-        "id": "cb4c997bb9083efebfba247764f1160813e743f5a67602881a40617bcbdbd2c5",
-        "text": "Модлїм єдно пиво!",
-        "source": "TTS",
-        "license": "Attribution-ShareAlike 4.0 International",
-        "ttsProvider": "Polly",
-        "ttsVoice": "Lucia",
-        "ttsEngine": "standard"
-    },
-    {
         "id": "cbcee1256e33c041404fdbdd67b9ef5595e5a2d2b71540f59364bd66a3568b98",
         "text": "єден медведз",
         "source": "TTS",
@@ -981,8 +1215,26 @@
         "ttsEngine": "standard"
     },
     {
+        "id": "d0167334d8b3df7d33266f99b07d3c4c2d1f93e44e32a75177a142a30d660b7a",
+        "text": "Чи ти пишеш писмо?",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
         "id": "d23854094379cbb05202749ef3f2ce61fce326034afd98086fbb1edaa5981193",
         "text": "резанки",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "d39ac63da405cddc85908c5fd015194a89b9269a61eef36df6a8025c7c85f59d",
+        "text": "Вельки зме",
         "source": "TTS",
         "license": "Attribution-ShareAlike 4.0 International",
         "ttsProvider": "Polly",
@@ -1010,6 +1262,24 @@
     {
         "id": "d7cdb2d08d003dc692e12e740b29e051cbb63612772314f31c1c4b0a502839e9",
         "text": "пиво",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "d9c9f4ccc69cceaab0d76598c0854f6523bf6aa49ef627981b876d4c34d02505",
+        "text": "Велька є",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "d9d15cf41c323cc9503c3af2602a41e48b41aadc0bf0f448cc90245dbfa3e474",
+        "text": "Добре рано",
         "source": "TTS",
         "license": "Attribution-ShareAlike 4.0 International",
         "ttsProvider": "Polly",
@@ -1062,6 +1332,24 @@
         "ttsEngine": "standard"
     },
     {
+        "id": "e0ef9e031d65074ea140fe8d5dc7c9eb393f0956ad40c9bfb3506fd3f94b4e5a",
+        "text": "Дзекуєм ци",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "e244e639146a02628f7b93f14d2f53218c2f368abaa195cd96454cb75da67c3c",
+        "text": "Любим то",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
         "id": "e5908e07b7a6b9595b993491f385121ed0f194c7b648cb9b42e970fbb5e83585",
         "text": "маїца",
         "source": "TTS",
@@ -1080,8 +1368,17 @@
         "ttsEngine": "standard"
     },
     {
-        "id": "ebb91e2bca6c79cfa8b5df5f8230c8f8117be1a907e02fccd24fd39b6ba02272",
-        "text": "Добру ноц!",
+        "id": "e89b65869201c3d65dc3e2e5cfe2e5f88adc2b06162f91460ce3deb9976cc2de",
+        "text": "Слони вельки, миши манди",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "ed90ef8ae48f47b97568ff2b0891d84a980776cadf3ca1fefa02e2dc0ec4f117",
+        "text": "Видзиме ше",
         "source": "TTS",
         "license": "Attribution-ShareAlike 4.0 International",
         "ttsProvider": "Polly",
@@ -1091,6 +1388,15 @@
     {
         "id": "f22b24586f8013cffa03a39abe5f3fb0a4ddcc3c3f8bef30e63095b558ee33f6",
         "text": "Сукня прекрасна",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "f35d7db2fcb422de22b223ac377f099b5f6c6d80e64a1383de822a48957e6204",
+        "text": "Задовольни ши?",
         "source": "TTS",
         "license": "Attribution-ShareAlike 4.0 International",
         "ttsProvider": "Polly",
@@ -1109,6 +1415,33 @@
     {
         "id": "fb0bedad1112e1074341ccdc19fe0dbeaf8c9ff6d666637e3c34257e309d263c",
         "text": "Дзекуєм вам",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "fb711629d7cd4e6661aa242c64c8bf167d3c6a03fb79b2670c67852c5e3bf8f8",
+        "text": "кошулї",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "fc931332ef1cdc1d64e6f224a321d159059f9ba8cc52e4d4c9ae802036c45a0b",
+        "text": "сукня",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "fe4e1782684b171a4bac84307eaffdefd8912b13bcfc67c7915928102e353637",
+        "text": "Вон пиє пиво",
         "source": "TTS",
         "license": "Attribution-ShareAlike 4.0 International",
         "ttsProvider": "Polly",
