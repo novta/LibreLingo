@@ -50,6 +50,7 @@
   <strong data-test="meaning-in-source-language">
     {currentChallenge.meaningInSourceLanguage}
   </strong>
+  ?
 </p>
 
 <form on:submit|preventDefault="{submitChallenge}">
