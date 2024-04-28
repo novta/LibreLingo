@@ -65,7 +65,7 @@
       {$t('short_input_challenge.type')}
       <Phrase phrase="{challenge.phrase}" />
       {$t('short_input_challenge.in')}
-      {languageName}!
+      русинском!
     </p>
   </div>
   <Columns>
