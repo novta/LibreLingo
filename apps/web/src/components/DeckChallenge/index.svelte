@@ -80,14 +80,20 @@
         message={$t('deck_challenge.correct_solution')}
         buttonText={$t('deck_challenge.continue')}
         correct
-        buttonAction="{finishChallenge}" />
+        buttonAction="{finishChallenge}"
+        skipAction={skipChallenge}
+        skipAllAction={skipAllChallenges}
+        />
     {/if}
     {#if !options[selectedOption].correct}
       <ChallengePanel
         message={$t('deck_challenge.incorrect_solution')}
         buttonText={$t('deck_challenge.continue')}
         incorrect
-        buttonAction="{finishChallenge}" />
+        buttonAction="{finishChallenge}"
+        skipAction={skipChallenge}
+        skipAllAction={skipAllChallenges}
+        />
     {/if}
   {/if}
 </form>
