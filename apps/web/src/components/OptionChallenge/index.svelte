@@ -62,11 +62,17 @@
       buttonText={$t('option_challenge.submit')}
       submit
       skipAction="{skipChallenge}"
-      skipAllAction="{skipAllChallenges}" />
+      skipAllAction="{skipAllChallenges}"
+    />
   {/if}
 
   {#if !submitted && selectedOption === null}
-    <ChallengePanel message="" buttonText="" skipAction="{skipChallenge}" skipAllAction="{skipAllChallenges}" />
+    <ChallengePanel 
+      message="" 
+      buttonText="" 
+      skipAction="{skipChallenge}" 
+      skipAllAction="{skipAllChallenges}"
+    />
   {/if}
 
   {#if submitted}
@@ -75,7 +81,10 @@
         message={$t('option_challenge.correct_solution')}
         buttonText={$t('option_challenge.continue')}
         correct
-        buttonAction="{finishChallenge}" />
+        buttonAction="{finishChallenge}"
+        skipAction={skipChallenge}
+        skipAllAction={skipAllChallenges}
+      />
     {/if}
     {#if !options[selectedOption].correct}
       <ChallengePanel
@@ -83,7 +92,10 @@
         messageDetail="{`${$t('option_challenge.correct_answer')} ${currentChallenge.formInTargetLanguage}`}"
         buttonText={$t('option_challenge.continue')}
         incorrect
-        buttonAction="{finishChallenge}" />
+        buttonAction="{finishChallenge}"
+        skipAction={skipChallenge}
+        skipAllAction={skipAllChallenges}
+      />
     {/if}
   {/if}
 </form>
