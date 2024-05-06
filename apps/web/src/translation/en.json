@@ -42,6 +42,7 @@
     "listening_challenge.correct_solution": "Correct solution!",
     "listening_challenge.incorrect_solution": "Incorrect solution!",
     "listening_challenge.type_what_you_hear": "Type what you hear",
+    "listening_challenge.correct_spelling": "Correct spelling:",
 
     "challenge_panel.skip": "Skip",
     "challenge_panel.cancel": "Cancel",

@@ -47,7 +47,7 @@
             .replace(/\s+/g, " ")
             .toLowerCase() === answer.toLowerCase()
             ? ""
-            : `Correct spelling: ${form}`
+            : `${$t('listening_challenge.correct_spelling')} ${form}`
       }
 
       registerResult(correct)
