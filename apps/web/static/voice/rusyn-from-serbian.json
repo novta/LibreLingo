@@ -108,15 +108,6 @@
         "ttsEngine": "standard"
     },
     {
-        "id": "16defe381dd4ff3ac8727aeee72123be8416bd8d9e3b3409bb97bee0d2db515f",
-        "text": "Вони шє бавя",
-        "source": "TTS",
-        "license": "Attribution-ShareAlike 4.0 International",
-        "ttsProvider": "Polly",
-        "ttsVoice": "Lucia",
-        "ttsEngine": "standard"
-    },
-    {
         "id": "172b003f65f65e96018d74c2a4610baa956c65219acba04ab31dc28f90c22aea",
         "text": "вино",
         "source": "TTS",
@@ -1172,6 +1163,15 @@
     {
         "id": "c6dbafee27270060205fc68b9f1dbdaf97c806a44757d2d1d1c84993467067f8",
         "text": "Я любим цесто",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "c7154b662f8aaa97eff5cfb799ca88ea0742fe183735299e205ee92f496911d6",
+        "text": "Вони ше бавя",
         "source": "TTS",
         "license": "Attribution-ShareAlike 4.0 International",
         "ttsProvider": "Polly",
