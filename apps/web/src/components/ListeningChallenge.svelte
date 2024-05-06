@@ -127,6 +127,8 @@
         buttonText={$t('listening_challenge.continue')}
         incorrect
         buttonAction="{finishChallenge}"
+        skipAction="{skipChallenge}"
+        skipAllAction="{skipAllChallenges}"
       />
     {/if}
 
@@ -138,6 +140,8 @@
           buttonText={$t('listening_challenge.continue')}
           correct
           buttonAction="{finishChallenge}"
+          skipAction="{skipChallenge}"
+          skipAllAction="{skipAllChallenges}"
         />
       {/if}
 
@@ -149,6 +153,8 @@
           buttonText={$t('listening_challenge.continue')}
           typo
           buttonAction="{finishChallenge}"
+          skipAction="{skipChallenge}"
+          skipAllAction="{skipAllChallenges}"
         />
       {/if}
     {/if}

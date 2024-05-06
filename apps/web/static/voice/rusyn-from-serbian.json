@@ -108,15 +108,6 @@
         "ttsEngine": "standard"
     },
     {
-        "id": "11627e557324cf8230edb13e4f2d242f1116c4457430de43b397b22b75f6f9a3",
-        "text": "У варошу зме шицки",
-        "source": "TTS",
-        "license": "Attribution-ShareAlike 4.0 International",
-        "ttsProvider": "Polly",
-        "ttsVoice": "Lucia",
-        "ttsEngine": "standard"
-    },
-    {
         "id": "16defe381dd4ff3ac8727aeee72123be8416bd8d9e3b3409bb97bee0d2db515f",
         "text": "Вони шє бавя",
         "source": "TTS",
@@ -137,6 +128,15 @@
     {
         "id": "1a1fd6c6a3e3d4890733687f002fdcc0528f65fd2cbb1a5dbcdb48b2566f9c7a",
         "text": "Слухаш?",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
+        "id": "1aacd429ee5ddd2eb895d066c4e0d6be687385faf5929db82e805fc81b4cfd1b",
+        "text": "У городу зме шицки",
         "source": "TTS",
         "license": "Attribution-ShareAlike 4.0 International",
         "ttsProvider": "Polly",
@@ -486,6 +486,15 @@
         "ttsEngine": "standard"
     },
     {
+        "id": "5894b303a9fa7a381326210bed7c92aabcb6039dcd7b290f6a24a95afa8431f7",
+        "text": "Як ше волаш?",
+        "source": "TTS",
+        "license": "Attribution-ShareAlike 4.0 International",
+        "ttsProvider": "Polly",
+        "ttsVoice": "Lucia",
+        "ttsEngine": "standard"
+    },
+    {
         "id": "58db22679a56dd2e78333495a48ecb8cfb18a74c7d3d94a7ab5e1195237850d0",
         "text": "Маїца велька",
         "source": "TTS",
@@ -668,15 +677,6 @@
     {
         "id": "741eaf36d0de6069a69ef4ed6b5b38fce14368430b97c241d9cacb7a0c5c72df",
         "text": "Щешлїви ши?",
-        "source": "TTS",
-        "license": "Attribution-ShareAlike 4.0 International",
-        "ttsProvider": "Polly",
-        "ttsVoice": "Lucia",
-        "ttsEngine": "standard"
-    },
-    {
-        "id": "7615da09b66bc5e952ee65639a0bce8d3d569fdc1cc5f0975b5f757fbf3e5550",
-        "text": "Як шє волаш?",
         "source": "TTS",
         "license": "Attribution-ShareAlike 4.0 International",
         "ttsProvider": "Polly",
